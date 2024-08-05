@@ -1,0 +1,12 @@
+{
+    "name": "instagram-roaster-api",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {
+      "axios": "^0.21.1"
+    }
+  }
+  
